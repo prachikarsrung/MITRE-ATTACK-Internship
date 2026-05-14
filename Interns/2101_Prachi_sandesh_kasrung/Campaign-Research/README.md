@@ -12,12 +12,8 @@ This folder contains detailed threat campaign analysis conducted as part of the 
 
 ## Folder Structure
 
-Campaign-Research/
-   ├── README.md
-   ├── Frankenstein_C0001_Report.pdf
-   ├── Screenshots/
-   ├── Diagrams/
-   └── References/
+Here are the three diagrams for Campaign C0001 – Frankenstein.
+Diagram 1 — [Attack flow diagram](./Attack flow diagram.) showing how the campaign moves from initial access through to its objective.
 
 
 ## MITRE ATT&CK Mapping
