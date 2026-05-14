@@ -33,6 +33,7 @@ Each software report includes the following sections:
 ## Deliverables Included
 
 ### PDF Reports
+[Software_research  Software Range	S0010 – S0020](./MITRE_ATT&CK_S0010-S0020_Report.pdf)
 
 * Detailed PDF report for each assigned software entry.
 * Includes technical analysis, ATT&CK mapping, and references.
