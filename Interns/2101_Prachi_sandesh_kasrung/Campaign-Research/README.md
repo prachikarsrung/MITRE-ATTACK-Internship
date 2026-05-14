@@ -6,7 +6,8 @@ This folder contains detailed threat campaign analysis conducted as part of the 
 ## Research Reports
 
 ### Frankenstein (C0001)
-- 📄 [Frankenstein_C0001_Report.pdf](./https://github.com/prachikarsrung/MITRE-ATTACK-Internship/blob/main/Interns/2101_Prachi_sandesh_kasrung/Campaign-Research/Frankenstein_C0001_Report.pdf)
+- 📄 [Frankenstein_C0001_Report.pdf](./Frankenstein_C0001_Report.pdf)
+
 - 📘 [README.md](./Frankenstein-C0001/README.md)
 
 ## Folder Structure
