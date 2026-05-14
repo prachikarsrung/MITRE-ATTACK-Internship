@@ -1,8 +1,7 @@
 # Frankenstein Campaign (C0001)
 
 ## Full Report
-- Frankenstein_C0001_Report.pdf
-- Frankenstein_C0001_Report.docx
+- campaign_research.docx
 
 ## Supporting Files
 - Screenshots/
