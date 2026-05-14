@@ -16,6 +16,13 @@ Here are the three diagrams for Campaign C0001 – Frankenstein.
 - Diagram 1 — [Attack flow diagram](./Attack_flow_diagram.png) 
 showing how the campaign moves from initial access through to its objective.
 
+- Diagram 2 —[ MITRE ATT&CK mapping](./ MITRE_ATT&CK_mapping.png)
+ showing which tactics and techniques apply to this campaign.
+
+- Diagram 3 — [Threat actor infrastructure map](./Threat_actor_infrastructure_map.png)
+  showing the network topology used by the campaign.
+  
+
 
 ## MITRE ATT&CK Mapping
 
