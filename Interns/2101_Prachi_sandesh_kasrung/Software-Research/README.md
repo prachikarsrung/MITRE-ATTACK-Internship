@@ -36,18 +36,7 @@ Each software report includes the following sections:
 ### Flow Diagrams
 
 * Visual diagrams showing the software lifecycle and ATT&CK tactics.
-* Typical flow:
-
-  * Initial Execution
-  * Persistence
-  * Privilege Escalation
-  * Defense Evasion
-  * Credential Access
-  * Discovery
-  * Lateral Movement
-  * Command & Control
-  * Exfiltration
-  * Impact
+[Sofware_lifecycle_&_MITRE_Mapping](./Sofware_lifecycle_&_MITRE_Mapping)
 
 ## Research Methodology
 
