@@ -13,13 +13,11 @@ This folder contains detailed threat campaign analysis conducted as part of the 
 ## Folder Structure
 
 Campaign-Research/
-├── Frankenstein-C0001/
-│   ├── README.md
-│   ├── Frankenstein_C0001_Report.pdf
-│   ├── Frankenstein_C0001_Report.docx
-│   ├── Screenshots/
-│   ├── Diagrams/
-│   └── References/
+   ├── README.md
+   ├── Frankenstein_C0001_Report.pdf
+   ├── Screenshots/
+   ├── Diagrams/
+   └── References/
 
 
 ## MITRE ATT&CK Mapping
