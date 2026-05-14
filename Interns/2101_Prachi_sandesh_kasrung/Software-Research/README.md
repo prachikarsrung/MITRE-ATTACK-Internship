@@ -36,7 +36,7 @@ Each software report includes the following sections:
 ### Flow Diagrams
 
 * Visual diagrams showing the software lifecycle and ATT&CK tactics.
-[Software_lifecycle_&_MITRE_Mapping](./Software_lifecycle_&_MITRE_Mapping,png)
+[Software_lifecycle_&_MITRE_Mapping](./Software_lifecycle_&_MITRE_Mapping.png)
 
 ## Research Methodology
 
