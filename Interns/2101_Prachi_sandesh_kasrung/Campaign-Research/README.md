@@ -19,7 +19,7 @@ showing how the campaign moves from initial access through to its objective.
 - Diagram 2 —[ MITRE ATT&CK mapping](./ MITRE_ATT&CK_mapping.png)
  showing which tactics and techniques apply to this campaign.
 
-- Diagram 3 — [Threat actor infrastructure map](./Threat_actor_infrastructure_map.png)
+- Diagram 3 — [Threat actor infrastructure map](./Interns/2101_Prachi_sandesh_kasrung/Campaign-Research/Threat actor infrastructure map.png)
   showing the network topology used by the campaign.
   
 
