@@ -8,8 +8,6 @@ This folder contains detailed threat campaign analysis conducted as part of the 
 ### Frankenstein (C0001)
 - 📄 [Frankenstein_C0001_Report.pdf](./Frankenstein_C0001_Report.pdf)
 
-- 📘 [README.md](./Frankenstein-C0001/README.md)
-
 ## Folder Structure
 
 Here are the three diagrams for Campaign C0001 – Frankenstein.
