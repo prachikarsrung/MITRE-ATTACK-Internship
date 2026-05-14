@@ -1,4 +1,4 @@
-```markdown
+
 # Software Research
 ## Research Topics
 
